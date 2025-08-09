@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ria&langs_count=10&layout=compact&theme=transparent)](https://github.com/Kim-Ria)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ria&layout=compact&theme=transparent)](https://github.com/Kim-Ria)
 
 <!--
 ## GitHub Stats
