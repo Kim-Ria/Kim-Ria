@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&text=Hey,%20I'm%20Ria!&height=200&fontSize=50&&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&text=Hey,%20I'm%20Ria!&height=200&fontSize=50&&fontAlignY=38)﻿
 
 ## Skills
 <!-- Skills Icons : https://simpleicons.org/?q=javascript -->
@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ria&langs_count=10&layout=compact&theme=transparent)](https://github.com/Kim-Ria)
 
 <!--
 ## GitHub Stats
