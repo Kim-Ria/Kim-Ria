@@ -10,12 +10,14 @@
 ![](https://img.shields.io/badge/Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)<br>
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/apachetomcat-F8DC75?&style=for-the-badge&logo=apachetomcat&logoColor=black)
+![](https://img.shields.io/badge/firebase-DD2C00?&style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ria&layout=compact&theme=transparent)](https://github.com/Kim-Ria)
 
-<!--
 ## GitHub Stats
 ![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Ria&show_icons=true&theme=transparent)
 -->
