@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&text=Hey,%20I'm%20Ria!&height=200&fontSize=50&&fontAlignY=38)﻿
+![header](https://capsule-render.vercel.app/api?type=waving&color=9babde&fontColor=FFFFFF&text=Hey,%20I'm%20Ria!&height=200&fontSize=50&&fontAlignY=38)﻿
 
 ## Skills
 <!-- Skills Icons : https://simpleicons.org/?q=javascript -->
@@ -19,6 +19,13 @@
 ## GitHub Stats
 ![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Ria&show_icons=true&theme=transparent)
 -->
+
+<!--
+## 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+-->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9babde&height=150&section=footer)
 
 <!--
 **Kim-Ria/Kim-Ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
