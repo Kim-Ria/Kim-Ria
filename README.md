@@ -15,8 +15,11 @@
 ![](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ria&layout=compact&theme=transparent)](https://github.com/Kim-Ria)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=9babde&height=120&section=footer)
+
+<!--
 
 ## GitHub Stats
 ![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Ria&show_icons=true&theme=transparent)
@@ -26,8 +29,6 @@
 ## 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=9babde&height=150&section=footer)
 
 <!--
 **Kim-Ria/Kim-Ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
