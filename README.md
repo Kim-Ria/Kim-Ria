@@ -4,14 +4,14 @@
 <!-- Skills Icons : https://simpleicons.org/?q=javascript -->
 ![](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/Java-5382a1?&style=for-the-badge&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)<br>
+![](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-663399?&style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)<br>
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/apachetomcat-F8DC75?&style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![](https://img.shields.io/badge/firebase-DD2C00?&style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/apachetomcat-F8DC75?&style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
 
