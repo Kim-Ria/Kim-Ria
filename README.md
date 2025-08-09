@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&text=Hey,%20I'm%20Ria!&height=200&fontSize=50&&fontAlignY=38)
 
 <!--
 **Kim-Ria/Kim-Ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
